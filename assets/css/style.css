@@ -345,7 +345,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
   }
   #hero .hero-img img {
-    width: 50%;
+    width: 75%;
   }
 }
 @media (max-width: 768px) {
@@ -362,7 +362,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 30px;
   }
   #hero .hero-img img {
-    width: 70%;
+    width: 80%;
   }
 }
 @media (max-width: 575px) {
