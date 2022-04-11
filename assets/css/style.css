@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 #header {
   z-index: 997;
   transition: all 0.5s;
-  padding: 22px 0;
+  padding: 12px 0;
   background: #fff;
 }
 #header.header-scrolled {
@@ -337,10 +337,12 @@ h1, h2, h3, h4, h5, h6 {
   #hero {
     height: 100vh;
   }
-  #hero .animated {
+  /* #hero .animated {
     -webkit-animation: none;
     animation: none;
   }
+
+  */
   #hero .hero-img {
     text-align: center;
   }
@@ -433,7 +435,7 @@ section {
 --------------------------------------------------------------*/
 .clients {
   background: #f3f9fd;
-  padding: 10px 0;
+  padding: 0px 0;
   text-align: center;
 }
 .clients .col-lg-2 {
