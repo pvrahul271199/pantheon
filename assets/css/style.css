@@ -785,6 +785,7 @@ section {
 }
 .portfolio-details .portfolio-details-slider img {
   width: 50%;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
